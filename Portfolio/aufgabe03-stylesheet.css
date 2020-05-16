@@ -83,12 +83,6 @@ a:hover {
     font-weight: bolder;
 }
 
-/* embed*/
-embed{
-    width: 800px;
-    height: 250px;
-    box-sizing: border-box;
-}
 
 /*iframe*/
 .centerIframe {
@@ -111,22 +105,12 @@ footer {
     box-sizing: border-box;
 }
 
-.socialMedia {
-    width: 30px;
-    height: 30px;
-    padding: 35px 10px 20px 10px;
-    filter: grayscale(100%);
-}
-
-.socialMedia:hover{
-    filter: none;
-}
-
 /* fürs erste Element*/
 .socialMediaEins{
-    margin-left: 10px;
-    width: 30px;
-    height: 30px;
+    margin-left: 70px;
+    margin-right: 70px;
+    width: 50px;
+    height: 50px;
     padding: 35px 10px 20px 10px;
     filter: grayscale(100%)
 }
@@ -136,7 +120,7 @@ footer {
 }
 
 .footerfloat {
-    padding: 10px 0 50px 160px;
+    padding: 30px 0 50px 160px;
     text-align: center;
 }
 
