@@ -49,9 +49,8 @@ li.naviElement:hover {
 /*header bild*/
 .headerBild {
     background-image: url(https://janinacpb.github.io/GIS-SoSe-2020/Aufgabe03/Archiv/stroke.svg);
-    width: 800px;
     box-sizing: border-box;
-    height: 200px;
+   /* height: 200px;*/
     margin: 0 auto;
     padding: 70px 0 0 0;
 }
@@ -89,6 +88,12 @@ embed{
     width: 800px;
     height: 250px;
     box-sizing: border-box;
+}
+
+/*iframe*/
+.centerIframe {
+  margin: 0 auto;
+  display: block;
 }
 
 /*Bilder blender */
