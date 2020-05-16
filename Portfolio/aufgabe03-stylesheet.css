@@ -50,7 +50,7 @@ li.naviElement:hover {
 .headerBild {
     background-image: url(https://janinacpb.github.io/GIS-SoSe-2020/Aufgabe03/Archiv/stroke.svg);
     box-sizing: border-box;
-   /* height: 200px;*/
+   height: 200px;
     margin: 0 auto;
     padding: 70px 0 0 0;
 }
@@ -295,6 +295,7 @@ footer {
   /*  flexbox*/
  .flexbox {
   display: flex;
+  flex-wrap: wrap; 
  }
 
  .item {
