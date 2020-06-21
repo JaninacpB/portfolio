@@ -47,6 +47,13 @@ li.naviElement:hover {
     padding: 10px;
 }
 
+.styleguide {
+  overflow: scroll;
+  width: 800px;
+  height: 450px;
+  overflow-x: hidden;
+}
+
 /*header bild*/
 .headerBild {
     background-image: url(https://janinacpb.github.io/GIS-SoSe-2020/Aufgabe03/Archiv/stroke.svg);
